@@ -1,0 +1,7 @@
+/*
+ *Chess AI
+ *Name: SempAI
+ *Copyright (c) 2018 Martin Krèma
+ */
+
+
